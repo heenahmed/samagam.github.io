@@ -11,3 +11,4 @@ It is a video calling web application. [Samagam](https://heenahmed.github.io/sam
      * Github Favicon : Heps to View the github repository of this application
      * Linkedln Favicon : Shows Linkedln profile of the developer.
 
+[video demo of samagam app](https://youtu.be/X6IUZRicEbU)
